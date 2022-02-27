@@ -1,0 +1,19 @@
+{
+  "name": "Charizard",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "GyuKJxHovBMojzJyD4aFF7Eh3oQznBuZnESt6dLowEwd",
+        "share": 100
+      }
+    ]
+  }
+}

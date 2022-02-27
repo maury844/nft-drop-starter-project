@@ -1,0 +1,19 @@
+{
+  "name": "Charmeleon",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "GyuKJxHovBMojzJyD4aFF7Eh3oQznBuZnESt6dLowEwd",
+        "share": 100
+      }
+    ]
+  }
+}
